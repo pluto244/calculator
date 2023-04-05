@@ -1,2 +1,2 @@
 # calculator
-simple calculator on web-page with js code and css ctyle
+simple calculator on web-page with js html and css
